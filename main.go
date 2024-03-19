@@ -49,6 +49,6 @@ func main() {
 
 	fmt.Printf("Set of %v.\n", arg)
 	for i := 1; i < arg+1; i++ {
-		fmt.Println(generateNumbersString(5, 50) + " | " + generateNumbersString(2, 10))
+		fmt.Println(generateNumbersString(5, 50) + " | " + generateNumbersString(2, 12))
 	}
 }

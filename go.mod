@@ -1,4 +1,4 @@
-module lotto
+module github.com/madhatter/lotto
 
 go 1.24.0
 
